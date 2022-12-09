@@ -1,0 +1,15 @@
+{
+  "name": "third",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server_time.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
